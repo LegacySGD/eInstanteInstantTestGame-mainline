@@ -1,0 +1,5 @@
+<ClientConfig>
+	<GameClient name="Lil Lady Bingo" clientCode="mobile" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="LilLadyBingoUI2" enableFreeSpin="N" clientversion="1.0" gameId="300-2011-1" />
+	<GameClient name="Lil Lady Bingo" clientCode="tablet" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="LilLadyBingoUI2" enableFreeSpin="N" clientversion="1.0" gameId="300-2011-1" />
+	<GameClient name="Lil Lady Bingo" clientCode="desktop" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="LilLadyBingoUI2" enableFreeSpin="N" clientversion="1.0" gameId="300-2011-1" />
+</ClientConfig>

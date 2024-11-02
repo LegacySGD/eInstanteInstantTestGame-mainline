@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="cs">
+<phrase key="softwareId" value="ID softwaru"/>
+<phrase key="transactionId" value="ID transakce"/>
+<phrase key="totalWins" value="Celková výhra"/>
+<phrase key="totalWager" value="Celková sázka"/>
+<phrase key="bingoCardNumbers" value="Čísla karty bingo"/>
+<phrase key="drawnNumbers" value="Tažená čísla"/>
+<phrase key="prizePatterns" value="Výherní vzorce"/>
+<phrase key="youMatched" value="Shoda"/>
+<phrase key="freeSpace" value="ZDARMA"/>
+<phrase key="winsPerPattern" value="Výhry za jeden vzorec"/>
+<phrase key="Black Out" value="Black Out"/>
+<phrase key="4 Corners" value="4 rohy"/>
+<phrase key="Z" value="Z"/>
+<phrase key="X" value="X"/>
+<phrase key="Line" value="Linie"/>
+</translation>

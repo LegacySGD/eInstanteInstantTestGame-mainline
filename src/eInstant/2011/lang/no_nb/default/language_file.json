@@ -1,0 +1,43 @@
+{
+	"version": "5.13.2016-SM,SH_NB_NO_Default",
+	"ui": {
+		"balance": "SALDO",
+		"wager": "SKRAPELODDPRIS",
+		"demo": "PRØV",
+		"wins": "GEVINST",
+		"demoWins": "DEMO-GEVINST",
+		"buy": "KJØP",
+		"try": "PRØV",
+		"drawOne": "TREKK ETT",
+		"drawAll": "TREKK ALLE",
+		"exit": "AVSLUTT",
+		"playForMoney": "FLYTT TIL\nPENGER"
+	},
+	"game": {
+		"gameModePlaqueText": "VELG SPILLEMÅTE",
+		"gameModePlaqueAuto": "MARKER KORTET AUTOMATISK",
+		"gameModePlaqueManual": "MARKER KORTET SELV",
+		"statusBar": {
+			"goodLuck": "LYKKE TIL",
+			"ready": "KLAR",
+			"ballsLeft": "{0} BALLER IGJEN",
+			"oneBallLeft": "{0}BALL IGJEN",
+			"drawComplete": "FULLFØRT TREKNING",
+			"ticketCost": ""
+		}
+	},
+	"help": {
+		"title": "SLIK SPILLER DU",
+		"text": "Trykk på TREKK EN for å rekke én bingoball av gangen.\n\nTrykk på TREKK ALLE, og spillet vil trekke bingoballene fortløpende.\n\nFullfør et vinnende mønster og vinn gevinsten for det mønsteret."
+	},
+	"result": {
+		"congratulations": "GRATULERER!,
+		"winText": "DU HAR VUNNET {0}",
+		"demoWinText": "DU KUNNE HA VUNNET {0}",
+		"sorry": "",
+		"loseText": "BEDRE LYKKE NESTE GANG"
+	},
+	"error": {
+		"errorCode": "{0}: {1}\n\n{2}"
+	}
+}
